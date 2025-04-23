@@ -1,3 +1,4 @@
+(function(){
   const _origPD = Event.prototype.preventDefault;
   Event.prototype.preventDefault = function(){
     if (this.type==='paste' || this.type==='drop') return;
