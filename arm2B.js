@@ -47,4 +47,5 @@ window.fetch = function(resource, init) {
 
   return _origFetch.call(this, resource, init);
 };
+  alert("Новый мод будет здесь: https://t.me/avrora_mod")
 })();
