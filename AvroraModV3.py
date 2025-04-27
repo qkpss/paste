@@ -1,5 +1,7 @@
 # примеры скриптов: https://docs.mitmproxy.org/stable/addons-examples/
+# https://github.com/qkpss/paste/blob/main/AvroraModV3.py
 
+import re
 from mitmproxy import http
 import os
 import shutil
