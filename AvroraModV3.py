@@ -92,7 +92,8 @@ def response(flow: http.HTTPFlow) -> None:
         })();
         </script>"""
         
-        # Вставляем скрипт в head HTML-документа
-        flow.response.text = flow.response.text.replace(
-            "<head>", "<head>" + injection, 1 
-        )
+        # Теперь регулярка ловит <head что-угодно>
+        pattern = re.compile(r"<\s*head(?:\s[^>]*)?>", re.IGNORECASE)
+
+        # Вставляем сразу после найденного тега
+        flow.response.text = pattern.sub(lambda m: m.group(0) + injection, flow.response.text, count=1)
